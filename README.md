@@ -14,14 +14,15 @@ Here are some ideas to get you started:![Frame 73](https://github.com/user-attac
 - ⚡ Fun fact: ...
 -->
 ![Frame 73](https://github.com/user-attachments/assets/14961abd-4d66-4541-b2e7-da8b6d48cd94)
-![image](https://github.com/user-attachments/assets/c625ffe7-f720-4847-875a-1a1212335111)![image](https://github.com/user-attachments/assets/f08854f7-870e-499d-8aab-a53eeae8fa5a)
-![image](https://github.com/user-attachments/assets/c07c6f33-4846-4edb-9461-0625778e7aea)
-![image](https://github.com/user-attachments/assets/e1497169-2d0d-41c7-8f83-a45a70114ea2)
-![image](https://github.com/user-attachments/assets/99ae131b-8161-4ea7-8ad3-ebc344a86621)
-![image](https://github.com/user-attachments/assets/3eeaa412-f660-4c6b-bd4f-0f42df524b9f)
-![image](https://github.com/user-attachments/assets/08ef93f5-344b-4521-a47e-0b0f0abf46e4)
-![image](https://github.com/user-attachments/assets/1bfcab75-7d6d-4925-bf9a-c4508e32678d)
-![image](https://github.com/user-attachments/assets/62ca6b1a-b3cd-4b86-a357-1eecc7a51fdd)![image](https://github.com/user-attachments/assets/9a5ea0f7-20ff-43bb-a847-fb09423ed584)
+<div align="center">
+  <img align="center" height="48" src="https://emoji.discadia.com/emojis/resized/6846ada5-19cc-426b-9fc3-360a8b53faa9_48x48.webp"/>
+  <img align="center" height="48" src="https://emoji.discadia.com/emojis/resized/c4101faf-8e79-4ea6-b8a0-77347f033437_48x48.webp"/>
+  <img align="center" height="48" src="https://emoji.discadia.com/emojis/resized/2bc2edb2-7547-4325-826c-aa55d75e18bc_48x48.webp"/>
+  <img align="center" height="48" src="https://emoji.discadia.com/emojis/resized/c1af8609-dfd9-444f-b4dc-497050a7472b_48x48.webp"/>
+  <img align="center" height="48" src="https://emoji.discadia.com/emojis/resized/badbdefe-1b65-48e6-9635-02c607649787_48x48.webp"/>
+  <img align="center" height="48" src="https://emoji.discadia.com/emojis/resized/2f87ec87-8325-424b-a9d3-91e5dba028c4_48x48.webp"/>
+  <img align="center" height="48" src="https://emoji.discadia.com/emojis/resized/ce418dc9-c25f-465d-877b-a564c04e43d0_48x48.webp"/>
 
+</div>
 
 
