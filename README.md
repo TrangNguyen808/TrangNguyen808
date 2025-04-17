@@ -1,9 +1,8 @@
-## Hi there 👋
-
 <!--
 **TrangNguyen808/TrangNguyen808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![Frame 73](https://github.com/user-attachments/assets/0215c14f-c5c8-4223-8894-dfc5a387f70b)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Frame 73](https://github.com/user-attachments/assets/14961abd-4d66-4541-b2e7-da8b6d48cd94)
