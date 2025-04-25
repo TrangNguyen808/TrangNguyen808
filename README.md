@@ -14,7 +14,6 @@ Here are some ideas to get you started:![Frame 73](https://github.com/user-attac
 - ⚡ Fun fact: ...
 -->
 ![Frame 73](https://github.com/user-attachments/assets/14961abd-4d66-4541-b2e7-da8b6d48cd94)
-![undefined (2)](https://github.com/user-attachments/assets/6f0c1ee4-9afd-4427-9ccf-eddc66da230f)
 <details> <summary>Click to expand info</summary> loading...</details>
 <div align="center">
   <img align="center" height="48" src="https://emoji.discadia.com/emojis/resized/6846ada5-19cc-426b-9fc3-360a8b53faa9_48x48.webp"/>
